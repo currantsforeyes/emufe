@@ -1,0 +1,11 @@
+{
+  "retroarch": {
+    "path": "./Emulators/RetroArch/retroarch.exe",
+    "cores_path": "./Emulators/RetroArch/cores"
+  },
+  "ui": {
+    "theme": "purple",
+    "volume": 0.5
+  },
+  "systems": {}
+}
