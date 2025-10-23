@@ -1,52 +1,17 @@
-=========================================
-         Welcome to Emu-FE!
-=========================================
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-QUICK START:
-1. Add your ROM files to the appropriate folders in /ROMs
-2. Run Emu-FE.exe
-3. Navigate using arrow keys, Enter to select, Escape to go back
+# Run and deploy your AI Studio app
 
-FOLDER GUIDE:
-- ROMs/        Put your games here (organized by system)
-- Saves/       Your save files and save states
-- Screenshots/ In-game screenshots
-- Emulators/   RetroArch is here (don't modify)
+This contains everything you need to run your app locally.
 
-ADDING GAMES:
-Drop ROM files into these folders:
-- ROMs/nes/      Nintendo (NES) games
-- ROMs/snes/     Super Nintendo (SNES) games  
-- ROMs/genesis/  Sega Genesis games
-- ROMs/gb/       Game Boy games
-- ROMs/gba/      Game Boy Advance games
-- ROMs/n64/      Nintendo 64 games
-- ROMs/psx/      PlayStation 1 games
-
-BIOS FILES (if needed):
-Some systems require BIOS files:
-- Put BIOS in: Emulators/RetroArch/system/
-
-Systems that need BIOS:
-- PlayStation 1: scph1001.bin, scph5501.bin, scph7001.bin
-
-SUPPORTED FILE TYPES:
-- NES: .nes, .zip
-- SNES: .smc, .sfc, .zip
-- Genesis: .md, .gen, .zip
-- Game Boy: .gb, .gbc, .zip
-- GBA: .gba, .zip
-- N64: .n64, .z64, .v64, .zip
-- PSX: .cue, .bin (keep .cue and .bin together!)
-
-TROUBLESHOOTING:
-- Games not showing? Check file extensions
-- Games not launching? Install Visual C++ Redistributable
-- Black screen? System may need BIOS file
+View your app in AI Studio: https://ai.studio/apps/drive/1PAgpQWQtw_Dt7GAg-QN3QIWrl4gfkpRr
 
 ## Run Locally
 
 **Prerequisites:**  Node.js
+
 
 1. Install dependencies:
    `npm install`
